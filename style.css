@@ -9,7 +9,7 @@ body{
 h1{
     font-size: 50px;
 }
-section{
+.flexible-content{
     display: flex;
     margin-bottom: 100px;
 }
